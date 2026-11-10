@@ -1,0 +1,16 @@
+Skill,Students Reporting,Recommended Action,Reporting Percentage
+Hackathons,1,Participate in hackathons and team projects,0.7194244604316548
+Cybersecurity,2,Learn cybersecurity fundamentals,1.4388489208633095
+Cloud,2,Learn cloud fundamentals and deployment,1.4388489208633095
+Data Analysis,2,"Practice Pandas, NumPy and data visualization",1.4388489208633095
+SQL,3,"Learn SQL queries, joins and database management",2.158273381294964
+Operating Systems,3,"Study processes, threads and memory management",2.158273381294964
+DBMS,4,Study database design and normalization,2.877697841726619
+Git,4,Practice Git and GitHub version control,2.877697841726619
+Deep Learning,5,Practice neural networks and deep learning,3.597122302158273
+C++,5,Strengthen C++ and object-oriented programming,3.597122302158273
+AI,7,Explore AI applications and practical projects,5.0359712230215825
+Python,9,Practice Python programming and mini projects,6.474820143884892
+Machine Learning,12,Learn ML algorithms and implement projects,8.633093525179856
+Web Development,21,Build practical frontend and backend projects,15.107913669064748
+DSA,28,"Practice arrays, trees, graphs and problem solving",20.14388489208633

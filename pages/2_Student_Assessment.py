@@ -270,17 +270,13 @@ div[data-testid="stForm"] {
     border-color: #C7D2FE !important;
 }
 
-/* Sidebar */
+/* Hide Streamlit Sidebar Navigation */
 section[data-testid="stSidebar"] {
-    background: linear-gradient(180deg, #312E81, #6366F1);
+    display: none !important;
 }
 
-section[data-testid="stSidebar"] p,
-section[data-testid="stSidebar"] label,
-section[data-testid="stSidebar"] h1,
-section[data-testid="stSidebar"] h2,
-section[data-testid="stSidebar"] h3 {
-    color: #FFFFFF !important;
+[data-testid="stSidebarCollapsedControl"] {
+    display: none !important;
 }
 
 /* Buttons */
@@ -300,7 +296,7 @@ hr {
 """, unsafe_allow_html=True)
 
 
-st.title("🎓 Student Internship Readiness App")
+st.title("🎓 Student Internship Readiness Assessment")
 
 st.write(
     "Welcome! Complete your assessment to understand "
@@ -308,15 +304,12 @@ st.write(
 )
 
 st.divider()
-# NEW STUDENT READINESS ASSESSMENT PORTAL
-# ==========================================
 
-st.divider()
-st.header("📝 New Student Readiness Assessment")
+st.header("📝 Your Assessment")
 
 st.write(
-    "Complete the assessment to calculate your "
-    "Internship and Placement Readiness Score."
+    "Fill in the details below to discover your readiness level, "
+    "strengths, skill gaps, and suitable internship roles."
 )
 
 # Original dataset feature names

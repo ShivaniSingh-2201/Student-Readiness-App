@@ -229,6 +229,77 @@ st.set_page_config(
     layout="wide"
 )
 
+st.markdown("""
+<style>
+
+/* Main background */
+.stApp {
+    background: linear-gradient(135deg, #EEF2FF, #F5F3FF, #ECFEFF);
+    color: #1E293B;
+}
+
+/* Main content */
+.block-container {
+    padding-top: 2rem;
+}
+
+/* Text and headings */
+.stApp p, .stApp label {
+    color: #334155;
+}
+
+h1, h2, h3, h4 {
+    color: #312E81 !important;
+    font-weight: 750 !important;
+}
+
+/* Assessment form card */
+div[data-testid="stForm"] {
+    background: linear-gradient(135deg, #F5F3FF, #EEF2FF);
+    border: 1px solid #C7D2FE;
+    border-radius: 16px;
+    padding: 20px;
+}
+
+/* Input fields */
+.stApp input,
+.stApp textarea,
+.stApp [data-baseweb="select"] > div {
+    background-color: #FFFFFF !important;
+    color: #1E293B !important;
+    border-color: #C7D2FE !important;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background: linear-gradient(180deg, #312E81, #6366F1);
+}
+
+section[data-testid="stSidebar"] p,
+section[data-testid="stSidebar"] label,
+section[data-testid="stSidebar"] h1,
+section[data-testid="stSidebar"] h2,
+section[data-testid="stSidebar"] h3 {
+    color: #FFFFFF !important;
+}
+
+/* Buttons */
+.stButton > button {
+    background: linear-gradient(90deg, #4F46E5, #7C3AED);
+    color: white !important;
+    border: none;
+    border-radius: 10px;
+    font-weight: 650;
+}
+
+hr {
+    border-color: #C7D2FE;
+}
+
+</style>
+""", unsafe_allow_html=True)
+
+
 st.title("🎓 Student Internship Readiness App")
 
 st.write(

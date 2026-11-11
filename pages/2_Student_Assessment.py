@@ -279,8 +279,6 @@ with st.form("student_assessment"):
         ["1st Year", "2nd Year", "3rd Year", "4th Year"]
     )
 
-    # 1. Academic Performance
-    st.subheader("1. Academic Performance")
 
     # 1. Academic Performance
     st.subheader("1. Academic Performance")

@@ -218,5 +218,25 @@ The main objective is to help students evaluate their current preparation, ident
 
 \*\*Domain:\*\* Data Science and Android Application Development
 
+\## Download Android Application
 
+
+
+The Android application is available for download.
+
+
+
+\*\*Latest Release:\*\* \[Student Readiness App v1.0.0](https://github.com/ShivaniSingh-2201/Student-Readiness-App/releases/tag/v1.0.0)
+
+
+
+Download `app-release.apk` from the release assets and install it on your Android device.
+
+
+
+\*\*Android Source Code:\*\* \[View Android\_App](https://github.com/ShivaniSingh-2201/Student-Readiness-App/tree/main/Android\_App)
+
+
+
+\*\*Note:\*\* An active internet connection is required to use the application.
 

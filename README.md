@@ -1,6 +1,6 @@
+﻿
 
-
-\# Student Internship \& Placement Readiness
+# Student Internship & Placement Readiness
 
 
 
@@ -8,11 +8,11 @@ A student-focused application that helps students understand their internship an
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
-The Student Internship \& Placement Readiness project evaluates a student's current preparation level based on academic performance, coding skills, technical knowledge, and career engagement.
+The Student Internship & Placement Readiness project evaluates a student's current preparation level based on academic performance, coding skills, technical knowledge, and career engagement.
 
 
 
@@ -20,73 +20,73 @@ It provides a readiness score, identifies strengths and skill gaps, and suggests
 
 
 
-\*\*Note:\*\* The readiness score is rule-based and is intended for self-assessment. It is not a prediction or guarantee of placement.
+**Note:** The readiness score is rule-based and is intended for self-assessment. It is not a prediction or guarantee of placement.
 
 
 
-\## Key Features
+## Key Features
 
 
 
-\- Individual Student Readiness Assessment
+- Individual Student Readiness Assessment
 
-\- Academic, Coding, Technical and Career Engagement evaluation
+- Academic, Coding, Technical and Career Engagement evaluation
 
-\- Overall Readiness Score and Readiness Category
+- Overall Readiness Score and Readiness Category
 
-\- Identification of Strengths and Skill Gaps
+- Identification of Strengths and Skill Gaps
 
-\- Personalized Improvement Suggestions
+- Personalized Improvement Suggestions
 
-\- Internship Role Recommendations
+- Internship Role Recommendations
 
-\- Downloadable Assessment Report in PDF format
+- Downloadable Assessment Report in PDF format
 
-\- Year-wise Student Readiness Dashboard
+- Year-wise Student Readiness Dashboard
 
-\- Android application for accessing the assessment
-
-
-
-\## Technologies Used
+- Android application for accessing the assessment
 
 
 
-\### Web Application
-
-\- Python
-
-\- Streamlit
-
-\- Pandas
-
-\- NumPy
-
-\- Matplotlib
-
-\- Plotly
+## Technologies Used
 
 
 
-\### Android Application
+### Web Application
 
-\- Android Studio
+- Python
 
-\- Kotlin
+- Streamlit
 
-\- Android WebView
+- Pandas
 
+- NumPy
 
+- Matplotlib
 
-\### Data
-
-\- Original student survey dataset
-
-\- CSV files for data storage and recommendations
+- Plotly
 
 
 
-\## Project Structure
+### Android Application
+
+- Android Studio
+
+- Kotlin
+
+- Android WebView
+
+
+
+### Data
+
+- Original student survey dataset
+
+- CSV files for data storage and recommendations
+
+
+
+## Project Structure
 
 
 
@@ -100,11 +100,11 @@ Student-Readiness-App/
 
 ├── pages/
 
-│   └── 2\_Student\_Assessment.py
+│   └── 2_Student_Assessment.py
 
-├── final\_student\_readiness\_dataset.csv
+├── final_student_readiness_dataset.csv
 
-├── skill\_gap\_recommendations.csv
+├── skill_gap_recommendations.csv
 
 ├── requirements.txt
 
@@ -112,7 +112,7 @@ Student-Readiness-App/
 
 │
 
-└── Android\_App/
+└── Android_App/
 
 &#x20;   ├── app/
 
@@ -128,11 +128,11 @@ Student-Readiness-App/
 
 
 
-\## Live Application
+## Live Application
 
 
 
-\*\*Web Dashboard:\*\*
+**Web Dashboard:**
 
 
 
@@ -140,23 +140,23 @@ https://student-readiness-app-aj9fz8mcgjsvpqvlznqx6l.streamlit.app/
 
 
 
-\*\*Individual Assessment:\*\*
+**Individual Assessment:**
 
 
 
-https://student-readiness-app-aj9fz8mcgjsvpqvlznqx6l.streamlit.app/Student\_Assessment
+https://student-readiness-app-aj9fz8mcgjsvpqvlznqx6l.streamlit.app/Student_Assessment
 
 
 
-\## How to Run the Web Application Locally
+## How to Run the Web Application Locally
 
 
 
-1\. Clone or download the project repository.
+1. Clone or download the project repository.
 
-2\. Open the project folder in the terminal.
+2. Open the project folder in the terminal.
 
-3\. Install the required dependencies:
+3. Install the required dependencies:
 
 
 
@@ -168,7 +168,7 @@ pip install -r requirements.txt
 
 
 
-4\. Run the Streamlit application:
+4. Run the Streamlit application:
 
 
 
@@ -180,11 +180,11 @@ streamlit run app.py
 
 
 
-5\. Open the local URL displayed in the terminal.
+5. Open the local URL displayed in the terminal.
 
 
 
-\## Android Application
+## Android Application
 
 
 
@@ -196,11 +196,11 @@ It provides access to the individual student assessment through the deployed web
 
 
 
-\*\*Important:\*\* An active internet connection is required to use the Android application.
+**Important:** An active internet connection is required to use the Android application.
 
 
 
-\## Project Objective
+## Project Objective
 
 
 
@@ -208,19 +208,19 @@ The main objective is to help students evaluate their current preparation, ident
 
 
 
-\---
+---
 
 
 
-\*\*Project:\*\* Student Internship \& Placement Readiness
+**Project:** Student Internship & Placement Readiness
 
 
 
-\*\*Domain:\*\* Data Science and Android Application Development
+**Domain:** Data Science and Android Application Development
 
 
 
-\## Download Android Application
+## Download Android Application
 
 
 
@@ -228,7 +228,7 @@ The Android application is available for download.
 
 
 
-\*\*Latest Release:\*\* \[Download Student Readiness App v1.0.0](https://github.com/ShivaniSingh-2201/Student-Readiness-App/releases/tag/v1.0.0)
+**Latest Release:** [Download Student Readiness App v1.0.0](https://github.com/ShivaniSingh-2201/Student-Readiness-App/releases/tag/v1.0.0)
 
 
 
@@ -236,11 +236,12 @@ Download `app-release.apk` from the release assets and install it on your Androi
 
 
 
-\*\*Android Source Code:\*\* \[View Android App Source Code](https://github.com/ShivaniSingh-2201/Student-Readiness-App/tree/main/Android\_App)
+**Android Source Code:** [View Android App Source Code](https://github.com/ShivaniSingh-2201/Student-Readiness-App/tree/main/Android_App)
 
 
 
-\*\*Note:\*\* An active internet connection is required to use the application.
+**Note:** An active internet connection is required to use the application.
+
 
 
 

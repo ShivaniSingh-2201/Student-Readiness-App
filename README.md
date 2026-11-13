@@ -236,7 +236,5 @@ Download `app-release.apk` from the release assets and install it on your Androi
 
 \*\*Android Source Code:\*\* \[View Android\_App](https://github.com/ShivaniSingh-2201/Student-Readiness-App/tree/main/Android\_App)
 
-
-
 \*\*Note:\*\* An active internet connection is required to use the application.
 
